@@ -1,2 +1,5 @@
 # hello-world
-The beginning
+
+Hello!
+
+Looking to learn the art of coding. 
